@@ -48,7 +48,7 @@ A passionate Full-Stack Developer from Milpitas, California!I went to school for
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ong-stev&theme=tokyonight_duo&hide_border=true&layout=compact&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ong-stev&theme=tokyonight_duo&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ong-stev&count_private=true&theme=tokyonight_duo&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ong-stev&theme=tokyonight_duo&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 </div>
