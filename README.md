@@ -17,27 +17,27 @@ A passionate Full-Stack Developer from Milpitas, California!I went to school for
 
 <h2 align="center">📬 Connect with me </h2>
 <div align="center" style="background:#ffffff;border-radius:5px;">
-<a href="https://twitter.com/ongstev" target="blank"><img align="center" src="https://github.com/ong-stev/ong-stev/blob/main/svg.files/twitter-brands.svg" alt="ongstev" width="10%" height="5%"/> </a>
-<a href="https://linkedin.com/in/ong-stev" target="blank"><img align="center" src="https://github.com/ong-stev/ong-stev/blob/main/svg.files/linkedin-brands.svg" alt="ong-stev" width="10%" height="5%" /> </a>
+<a href="https://twitter.com/ongstev" target="blank"><img align="center" src="https://github.com/ong-stev/ong-stev/blob/main/svg.files/twitter-brands.svg" alt="ongstev" width="10%" height="10%"/> </a>
+<a href="https://linkedin.com/in/ong-stev" target="blank"><img align="center" src="https://github.com/ong-stev/ong-stev/blob/main/svg.files/linkedin-brands.svg" alt="ong-stev" width="10%" height="10%" /> </a>
 </div>
 <br>
 <br>
 <h2 align="center">🛠 Languages and Tools</h2>
 <div align="center">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/ong-stev/ong-stev/blob/main/svg.files/html5.svg" alt="html5" width="5%" height="5%"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/ong-stev/ong-stev/blob/main/svg.files/css3-alt-brands.svg" alt="css3" width="5%" height="5%"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/ong-stev/ong-stev/blob/main/svg.files/js-brands.svg" alt="javascript" width="5%" height="5%"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/ong-stev/ong-stev/blob/main/svg.files/html5.svg" alt="html5" width="8%" height="8%"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/ong-stev/ong-stev/blob/main/svg.files/css3-alt-brands.svg" alt="css3" width="8%" height="8%"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/ong-stev/ong-stev/blob/main/svg.files/js-brands.svg" alt="javascript" width="8%" height="8%"/> </a> 
 <br>
 <br>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/ong-stev/ong-stev/blob/main/svg.files/node-js-brands.svg" alt="nodejs" width="5%" height="5%"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/ong-stev/ong-stev/blob/main/svg.files/expressjs.svg" alt="express" width="5%" height="5%"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/ong-stev/ong-stev/blob/main/svg.files/postgresql.svg" alt="postgresql" width="5%" height="5%"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ong-stev/ong-stev/blob/main/svg.files/react-brands.svg" alt="react" width="5%" height="5%"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/ong-stev/ong-stev/blob/main/svg.files/node-js-brands.svg" alt="nodejs" width="8%" height="8%"/> </a> 
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/ong-stev/ong-stev/blob/main/svg.files/expressjs.svg" alt="express" width="8%" height="8%"/> </a> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/ong-stev/ong-stev/blob/main/svg.files/postgresql.svg" alt="postgresql" width="8%" height="8%"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ong-stev/ong-stev/blob/main/svg.files/react-brands.svg" alt="react" width="8%" height="8%"/> </a> 
 <br>
 <br>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/ong-stev/ong-stev/blob/main/svg.files/bootstrap-brands.svg" alt="bootstrap" width="5%" height="5%"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/ong-stev/ong-stev/blob/main/svg.files/git-alt-brands.svg" alt="git" width="5%" height="5%"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/ong-stev/ong-stev/blob/main/svg.files/mongodb-icon.svg" alt="mongodb" width="5%" height="5%"/> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/ong-stev/ong-stev/blob/main/svg.files/bootstrap-brands.svg" alt="bootstrap" width="8%" height="8%"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/ong-stev/ong-stev/blob/main/svg.files/git-alt-brands.svg" alt="git" width="8%" height="8%"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/ong-stev/ong-stev/blob/main/svg.files/mongodb-icon.svg" alt="mongodb" width="8%" height="8%"/> </a> 
 </div>
 <br>
 <br>
