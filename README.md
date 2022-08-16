@@ -1,6 +1,6 @@
 ![Github Profile Banner](https://user-images.githubusercontent.com/96602332/180665018-a001d656-610d-47d2-979a-c759635af406.png)
 # 👋 Hello! My name is Steven...
-A passionate Full-Stack Developer from Milpitas, California!I went to school for business psychology and one of the things I've learned was the importance of personal branding! Looking for ways to implement this, I began playing around with HTML and CSS to see if I can create a personal website. This project grew into a passion and now I help others create responsive full-stack web applications.
+A passionate Full-Stack Developer from Milpitas, California! I went to school for business psychology and one of the things I've learned was the importance of personal branding! Looking for ways to implement this, I began playing around with HTML and CSS to see if I can create a personal website. This project grew into a passion and now I help others create responsive full-stack web applications.
 
 
 
