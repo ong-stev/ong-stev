@@ -1,6 +1,6 @@
 ![Github Profile Banner](https://user-images.githubusercontent.com/96602332/180665018-a001d656-610d-47d2-979a-c759635af406.png)
-# 👋 Hello! My name is Steven...
-A passionate Full-Stack Developer from Milpitas, California! I went to school for business psychology and one of the things I've learned was the importance of personal branding! Looking for ways to implement this, I began playing around with HTML and CSS to see if I can create a personal website. This project grew into a passion and now I help others create responsive full-stack web applications.
+# 👋 Hello! My name is Steven and I am...
+A business psychology graduate with a passion for mental health and technology, I am excited to bring my skills and knowledge to the software development industry. I believe that a holistic approach to development, which takes into account the well-being of team members and end users, is crucial for creating successful and sustainable products. I am eager to use my understanding of psychology to help build compassionate and effective software solutions that promote mental health and well-being.
 
 
 
