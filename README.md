@@ -1,5 +1,5 @@
 ![Github Profile Banner](https://user-images.githubusercontent.com/96602332/180665018-a001d656-610d-47d2-979a-c759635af406.png)
-# 👋 Hello! My name is Steven and I am...
+# 👋 Hello! My name is Steven...
 A business psychology graduate with a passion for mental health and technology, I am excited to bring my skills and knowledge to the software development industry. I believe that a holistic approach to development, which takes into account the well-being of team members and end users, is crucial for creating successful and sustainable products. I am eager to use my understanding of psychology to help build compassionate and effective software solutions that promote mental health and well-being.
 
 
